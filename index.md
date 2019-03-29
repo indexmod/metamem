@@ -1,6 +1,6 @@
 ---
 title: ЗРИ
-permalink:
+permalink: index
 layout: default
 ---
 
