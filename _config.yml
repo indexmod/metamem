@@ -1,41 +1,6 @@
----
-
-title: 111
-timezone: UTC
-description: MMMM
-
-show_sidebar: false
-show_downloads: false
-show_title: false
-show_description: false
-git_branch: master
-
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
-
-include: ['.htaccess']
-
-exclude: ['indexmod-curators.html']
-
-use_github_wiki: false
-use_prose_io: true
-custom_head: false
-custom_sidebar: false
-custom_footer: false
-
-
-  ignore:
-    - index.md
-    - _config.yml
-    - /_layouts
-    - /_includes
-    - /assets
-    - 404.md
-    - universe.md
-    - universe.html
-    - indexmod-curators.md
-    - indexmod-curators.html
-    - README.md
-    - feed.xml
-    - sitemap.xml
-    - robots.txt
-    - redirects.json
