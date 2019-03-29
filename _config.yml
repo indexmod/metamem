@@ -6,7 +6,7 @@ show_sidebar: false
 show_downloads: false
 show_title: false
 show_description: false
-use_prose_io: true
+use_prose_io: false
 custom_head: false
 custom_sidebar: false
 custom_footer: false
