@@ -22,21 +22,3 @@ custom_head: false
 custom_sidebar: false
 custom_footer: false
 
-prose:
-  rooturl: 'https://metamem.cf'
-  siteurl: 'https://metamem.cf'
-  relativeLinks: 'https://prose.github.io/starter/links.jsonp'
-  media: '/images'
-
-  ignore:
-    - index.md
-    - _config.yml
-    - /_layouts
-    - /_includes
-    - /assets
-    - 404.md
-    - README.md
-    - feed.xml
-    - sitemap.xml
-    - robots.txt
-    - redirects.json
