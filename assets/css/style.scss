@@ -17,44 +17,34 @@ p {
 	color: black;
 }
 
-a.one:link {
-	color: #4e80d8;
-	font-family: 'Verdana';
-	font-size: 20px;
-	line-height: 1.5em;
-	font-weight: 900;
-}
-a.one:visited {
-	color: #4e80d8;
-	font-family: 'Verdana';
-	font-size: 20px;
-	line-height: 1.5em;
-	font-weight: 900;
-}
-a.one:hover {
-	color: green;
-	font-family: 'Verdana';
-	font-size: 20px;
-	line-height: 1.5em;
-	font-weight: 900;
-}
 a:link {
+	font-family: 'Verdana';
 	color: #4e80d8;
 	text-decoration: none;
 	font-weight: 900;
 }
 a:visited {
+	font-family: 'Verdana';
 	color: #4e80d8;
 	text-decoration: none;
 	font-weight: 900;
 }
 a:hover {
+	font-family: 'Verdana';
 	color: green;
 	text-decoration: none;
 	font-weight: 900;
 }
 a:active {
+	font-family: 'Verdana';
 	color: #4e80d8;
 	text-decoration: none;
 	font-weight: 900;
+}
+
+img {
+	max-width: 95%;
+	min-width: 95%;
+	height: auto;
+	margin: 0em 0em 0em 0em;
 }
