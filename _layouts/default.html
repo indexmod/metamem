@@ -4,6 +4,8 @@
 </head>
 <body>
 {{ content }}
+{% include disqus.html %}
 <p>{{ site.time | date: "%Y" }} © Metamem</p>
+<script id="dsq-count-scr" src="//metamem.disqus.com/count.js" async></script>
 </body>
 </html>
