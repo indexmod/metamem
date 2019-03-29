@@ -1,8 +1,8 @@
 ---
 
-title: «Метамем»
+title: 111
 timezone: UTC
-description: Коллаборация
+description: MMMM
 
 show_sidebar: false
 show_downloads: false
@@ -14,20 +14,26 @@ theme: jekyll-theme-minimal
 
 include: ['.htaccess']
 
+exclude: ['indexmod-curators.html']
+
 use_github_wiki: false
 use_prose_io: true
 custom_head: false
 custom_sidebar: false
 custom_footer: false
 
-  media: '/media'
 
   ignore:
     - index.md
     - _config.yml
     - /_layouts
     - /_includes
+    - /assets
     - 404.md
+    - universe.md
+    - universe.html
+    - indexmod-curators.md
+    - indexmod-curators.html
     - README.md
     - feed.xml
     - sitemap.xml
