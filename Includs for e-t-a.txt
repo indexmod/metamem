@@ -1,0 +1,16 @@
+{% include facebook.html %}
+{% include yandex.html %}
+{% include google.html %}
+{% include meta.html %}
+{% include favicon.html %}
+
+
+
+{% include window.html %}
+
+
+{% include edit.html %}
+{% include menu.html %}
+{% include footer.html %}
+
+Cъешь ещё этих мягких французских булок, да выпей чаю.

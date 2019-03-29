@@ -1,23 +1,19 @@
 <!DOCTYPE html>
 <head>
-{% include facebook.html %}
-{% include yandex.html %}
-{% include google.html %}
 {% include meta.html %}
 {% include favicon.html %}
 </head>
 <body>
+{% include window.html %}
+
+<hr>
 <h1>{{page.title}}</h1>
-<hr>
-{% include edit.html %}
+<h2>{{page.subtitle}}</h2>
 {{ content }}
-{% include share-edit.html %}
-<hr>
-{% include disqus.html %}
-<div class="container">
-<a href="index"><img alt="Indexmod" src="/identity/indexmod-2018.png" style="width:auto;height:auto;border:0;"></a>
-</div>
-<p>{{ site.time | date: "%Y" }} © Metamem</p>
-<script id="dsq-count-scr" src="//https-metamem-cf.disqus.com/count.js" async></script>
+{% include edit.html %}
+{% include menu.html %}
+{% include footer.html %}
+<p>{{ site.time | date: "%Y" }} © «Эта»
+</p>
 </body>
 </html>

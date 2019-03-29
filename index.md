@@ -1,13 +1,11 @@
 ---
-title: ЗРИ
-permalink: index
+title: Hello Eta
+subtitle: Проект реализуется при методологической поддержке ИФЗ РАН им. О. Ю. Шмидта
+shortname: E-T-A.SPACE
+video: https://media.giphy.com/media/2dGZ5kHU4YXcc/giphy.mp4
 layout: default
 ---
 
+Товарищество «Эта» появилось в 2017 как коллаборация разработчиков цифровых и коммуникативных технологий, применяемых при разработке мультимедиа в целях визуализации данных, построения виртуальных и систем дополненной реальности.
 
-![(Image correspondent to the article)]({{ site.url }}/images/{{ page.permalink}}.jpg)
-
-1111
-
-+ [Pre](xxxx)
-+ [Next](xxxx)
+[А ещё вот это](hello)
