@@ -5,7 +5,7 @@ layout: default
 ---
 
 
-![(Image correspondent to the article)]({{ site.url }}/images/{{ page.permalink}}.jpg)
+![(Image correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}.jpeg)
 
 1111
 
