@@ -1,6 +1,6 @@
 ---
 title: ЖРИ
-permalink: яркш
+permalink: zhri
 layout: default
 ---
 
